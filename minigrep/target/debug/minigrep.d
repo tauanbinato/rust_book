@@ -1,0 +1,1 @@
+C:\Users\Tauan\Documents\dev\rust\the_rust_programming_language\minigrep\target\debug\minigrep.exe: C:\Users\Tauan\Documents\dev\rust\the_rust_programming_language\minigrep\src\lib.rs C:\Users\Tauan\Documents\dev\rust\the_rust_programming_language\minigrep\src\main.rs
